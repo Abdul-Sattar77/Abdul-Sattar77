@@ -48,6 +48,8 @@
 ### 🗄️ Database
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
@@ -96,11 +98,21 @@ We are a team of developers building:
 
 ---
 
+<!-- ================== Visitor Counter & Trophies ================== -->
+## 🏆 Achievements & Visitors
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Abdul-Sattar77&style=flat-square&color=blue" alt="visitor count" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdul-Sattar77&theme=radical&row=1" alt="trophies" />
+</p>
+
+---
+
 <!-- ================== Contact ================== -->
 ## 📫 Connect With Me
 <p>
   <a href="https://github.com/Abdul-Sattar77">GitHub</a> | 
-  <a href="mailto:sattarabdul.student@gmail.com">Email</a>
+  <a href="mailto:sattarabdul.student@gmail.com">Email</a> | 
+  <a href="https://linkedin.com/in/your-linkedin-profile">LinkedIn</a>
 </p>
 
 ---
