@@ -112,7 +112,7 @@ We are a team of developers building:
 <p>
   <a href="https://github.com/Abdul-Sattar77">GitHub</a> | 
   <a href="mailto:sattarabdul.student@gmail.com">Email</a> | 
-  <a href="https://linkedin.com/in/your-linkedin-profile">LinkedIn</a>
+  <a href="[https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/abdul-sattar-141602262?utm_source=share_via&utm_content=profile&utm_medium=member_android)">LinkedIn</a>
 </p>
 
 ---
