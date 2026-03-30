@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="White and Gray Minimalist Data Scientist LinkedIn Background Photo.jpg" alt="Abdul Sattar Banner" width="100%">
+</p>
+
+
 <!-- ================== Top Banner ================== -->
 # 👋 Hi, I'm Abdul Sattar  
 
