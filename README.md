@@ -75,8 +75,9 @@
 - 🎵 **Music Player App** – Smooth audio controls & modern UI  
 - 🌿 **Plant Disease Detector** – AI-based plant disease detection  
 - 🚦 **Traffic Violation Detection** – Computer vision to detect violations  
-- 🤖 **Data Entry Agent** – Automation for repetitive tasks  
-
+- 🤖 **Data Entry Agent** – Automation for repetitive tasks
+- 📄 AI Resume Analyzer – Upload your resume & job description to get match percentage, missing skills, suggestions, and summary using AI
+  
 ---
 
 <!-- ================== Team ================== -->
