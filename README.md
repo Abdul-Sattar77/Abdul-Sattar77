@@ -1,126 +1,252 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          MATRIX HEADER                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<a href="https://github.com/Abdul-Sattar77">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a3d0a,100:00ff41&height=220&section=header&text=Abdul%20Sattar&fontColor=00ff41&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI%20•%20Web%20•%20App%20Developer%20•%20Co-Founder%20@%20ClusterCrew&descAlignY=58&descSize=18" width="100%" />
+</a>
+
+<!-- Profile Views + Followers + Stars -->
 <p align="center">
-  <img src="White and Gray Minimalist Data Scientist LinkedIn Background Photo.jpg" alt="Abdul Sattar Banner" width="100%">
+  <img src="https://komarev.com/ghpvc/?username=Abdul-Sattar77&label=PROFILE+VISITS&color=00ff41&style=flat-square" alt="visitors" />
+  <img src="https://img.shields.io/github/followers/Abdul-Sattar77?label=FOLLOWERS&style=flat-square&color=00ff41&labelColor=000000" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Abdul-Sattar77?label=STARS&style=flat-square&color=00ff41&labelColor=000000" alt="stars" />
 </p>
 
-
-<!-- ================== Top Banner ================== -->
-# 👋 Hi, I'm Abdul Sattar  
-
-🎯 **AI, Web & App Developer | Co-Founder @ ClusterCrew**  
-💡 Turning ideas into smart AI systems, mobile apps & modern web solutions  
-
----
-
-<!-- ================== About Me ================== -->
-## 🧠 About Me
-- 🤖 Passionate about AI, Automation & Innovation  
-- 📱 Skilled in Mobile App Development (Flutter & React Native)  
-- 🌐 Building real-world web apps with Next.js  
-- 🎯 Focused on clean UI, performance & scalability  
-- 👨‍💻 Working collaboratively with ClusterCrew team  
-
----
-
-<!-- ================== Tech Stack ================== -->
-## 🚀 Tech Stack
-
-### 💻 Web Development
-<p>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-### 📱 App Development
-<p>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
-### 🤖 AI & Data
-<p>
-  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img alt="NLP" src="https://img.shields.io/badge/NLP-F7DF1E?style=for-the-badge&logo=python&logoColor=black" />
-  <img alt="Computer Vision" src="https://img.shields.io/badge/Computer_Vision-007ACC?style=for-the-badge&logo=opencv&logoColor=white" />
-</p>
-
-### 🗄️ Database
-<p>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<!-- Terminal Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=120&lines=%3E+root%40abdul-sattar%3A~%24+whoami;%3E+AI+Engineer+%7C+Full-Stack+Developer;%3E+Building+intelligent+systems+that+scale;%3E+Turning+ideas+into+reality+_" alt="Typing SVG" />
 </p>
 
 ---
 
-<!-- ================== Tools ================== -->
-## 🧰 Tools I Use
-<p>
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                            ABOUT ME                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> `whoami`
+
+```yaml
+name:        Abdul Sattar
+role:        AI, Web & App Developer
+team:        Co-Founder @ ClusterCrew
+focus:       [ Artificial Intelligence, Automation, Scalable Systems ]
+current:     Building AI-powered products end-to-end
+philosophy:  "Turning ideas into intelligent systems 🚀"
+status:      Always shipping. Always learning.
+```
+
+- 🤖 &nbsp;Passionate about **AI, Automation & Innovation**
+- 📱 &nbsp;Cross-platform apps with **Flutter** & **React Native**
+- 🌐 &nbsp;Production web apps with **Next.js**
+- 🧠 &nbsp;Machine Learning, NLP & Computer Vision
+- 🎯 &nbsp;Obsessed with **clean UI, performance & scalability**
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     ANIMATED 3D TECH STACK                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Arsenal
+
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="60" height="60" />
+</p>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45" height="45" /><br/><sub><b>Next.js</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" /><br/><sub><b>React</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" /><br/><sub><b>Tailwind</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="45" height="45" /><br/><sub><b>Flutter</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" height="45" /><br/><sub><b>Node.js</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="45" height="45" /><br/><sub><b>Express</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" /><br/><sub><b>Python</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="45" height="45" /><br/><sub><b>TensorFlow</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="45" height="45" /><br/><sub><b>OpenCV</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45" /><br/><sub><b>MySQL</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" /><br/><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" width="45" height="45" /><br/><sub><b>Firebase</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><div style="font-size:38px">🧠</div><br/><sub><b>Machine Learning</b></sub></td>
+    <td align="center" width="110"><div style="font-size:38px">💬</div><br/><sub><b>NLP</b></sub></td>
+    <td align="center" width="110"><div style="font-size:38px">👁️</div><br/><sub><b>Computer Vision</b></sub></td>
+    <td align="center" width="110"><div style="font-size:38px">🤖</div><br/><sub><b>AI Agents</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45" /><br/><sub><b>React Native</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45" /><br/><sub><b>Figma</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" /><br/><sub><b>Git</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45" /><br/><sub><b>GitHub</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45" /><br/><sub><b>VS Code</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45" /><br/><sub><b>Postman</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" /><br/><sub><b>Docker</b></sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="45" height="45" /><br/><sub><b>Vercel</b></sub></td>
+  </tr>
+</table>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          GITHUB STATS                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/W5epZ2Lk4uxi8/giphy.gif" width="30"> Live Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abdul-Sattar77&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00ff41&text_color=ffffff" alt="stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Abdul-Sattar77&theme=chartreuse-dark&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="streak" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Sattar77&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=ffffff" alt="top langs" />
 </p>
 
 ---
 
-<!-- ================== Projects ================== -->
-## 🌟 Projects
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Contribution Graph
 
-- 🛒 **E-commerce Website (Desi Food Items)** – Full-featured online store with cart & checkout  
-- 🌐 **Portfolio + Store Website** – Modern portfolio with store integration  
-- 🌦️ **Weather Forecasting App** – Real-time weather updates with API  
-- 📱 **Social Media App (Students)** – Connect, share posts & interact  
-- 🎵 **Music Player App** – Smooth audio controls & modern UI  
-- 🌿 **Plant Disease Detector** – AI-based plant disease detection  
-- 🚦 **Traffic Violation Detection** – Computer vision to detect violations  
-- 🤖 **Data Entry Agent** – Automation for repetitive tasks
-- 📄 AI Resume Analyzer – Upload your resume & job description to get match percentage, missing skills, suggestions, and summary using AI
-  
----
-
-<!-- ================== Team ================== -->
-## 🤝 ClusterCrew
-We are a team of developers building:  
-- AI Solutions  
-- Web & App Development  
-- Automation Systems  
-- Data & Design Services  
-
----
-
-<!-- ================== GitHub Stats ================== -->
-## 📊 GitHub Stats
-<p>
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Abdul-Sattar77&show_icons=true&theme=radical" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Sattar77&layout=compact&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdul-Sattar77&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" alt="activity graph" width="100%" />
 </p>
 
 ---
 
-<!-- ================== Visitor Counter & Trophies ================== -->
-## 🏆 Achievements & Visitors
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Abdul-Sattar77&style=flat-square&color=blue" alt="visitor count" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdul-Sattar77&theme=radical&row=1" alt="trophies" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                            PROJECTS                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Featured Builds
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🌿 Plant Disease Detector
+AI-powered image classification that identifies crop diseases from leaf photos in real time.
+<br/><br/>
+`Python` `TensorFlow` `Computer Vision`
+
+  </td>
+  <td width="50%" valign="top">
+
+### 🚦 Traffic Violation Detection
+Computer-vision system that detects and flags road violations from live video feeds.
+<br/><br/>
+`OpenCV` `Deep Learning` `Python`
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 📄 AI Resume Analyzer
+Upload a resume + job description → get match %, missing skills, tailored suggestions & AI summary.
+<br/><br/>
+`NLP` `Next.js` `AI`
+
+  </td>
+  <td width="50%" valign="top">
+
+### 🛒 Desi Food E-Commerce
+Full-featured online store with cart, checkout & payment flow for desi food items.
+<br/><br/>
+`Next.js` `Node.js` `MySQL`
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🤖 Data Entry Agent
+Automation agent that handles repetitive data-entry tasks end-to-end.
+<br/><br/>
+`Python` `Automation` `AI Agents`
+
+  </td>
+  <td width="50%" valign="top">
+
+### 📱 Student Social App
+Social platform for students to connect, share posts & interact in real time.
+<br/><br/>
+`Flutter` `Firebase`
+
+  </td>
+  </tr>
+</table>
+
+> Also built: 🌦️ Weather Forecasting App • 🎵 Music Player App • 🌐 Portfolio + Store Website
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          CLUSTERCREW                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> ClusterCrew
+
+> A team of builders shipping real products.
+
+`AI Solutions` &nbsp; `Web & App Development` &nbsp; `Automation Systems` &nbsp; `Data & Design`
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          ACHIEVEMENTS                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> Trophy Case
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdul-Sattar77&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" alt="trophies" />
 </p>
 
 ---
 
-<!-- ================== Contact ================== -->
-## 📫 Connect With Me
-<p>
-  <a href="https://github.com/Abdul-Sattar77">GitHub</a> | 
-  <a href="mailto:sattarabdul.student@gmail.com">Email</a> | 
-  <a href="[https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/abdul-sattar-141602262?utm_source=share_via&utm_content=profile&utm_medium=member_android)">LinkedIn</a>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        CONTRIBUTION SNAKE                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Watch The Snake Eat My Commits
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdul-Sattar77/Abdul-Sattar77/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdul-Sattar77/Abdul-Sattar77/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Abdul-Sattar77/Abdul-Sattar77/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-🔥 *"Turning ideas into intelligent systems 🚀"*
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                            CONNECT                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"> Establish Connection
+
+<p align="center">
+  <a href="https://github.com/Abdul-Sattar77"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41" /></a>
+  <a href="https://www.linkedin.com/in/abdul-sattar-141602262"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41" /></a>
+  <a href="mailto:sattarabdul.student@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff41" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Turning+ideas+into+intelligent+systems+%F0%9F%9A%80;Thanks+for+visiting+%E2%80%94+let's+build+together!" alt="footer typing" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:0a3d0a,100:000000&height=120&section=footer" width="100%" />
