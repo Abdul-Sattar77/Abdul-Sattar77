@@ -103,6 +103,43 @@ status:      Always shipping. Always learning.
 <!--                          GITHUB STATS                           -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Skills & Tools
+
+<p align="center"><b>🌐 Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,dart,php,html,css&theme=dark" />
+</p>
+
+<p align="center"><b>⚛️ Frontend & Mobile</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,bootstrap&theme=dark" />
+</p>
+
+<p align="center"><b>⚙️ Backend & APIs</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql&theme=dark" />
+</p>
+
+<p align="center"><b>🧠 AI / ML / Data</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
+  <img src="https://img.shields.io/badge/NLP-000000?style=flat-square&logo=python&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Computer_Vision-000000?style=flat-square&logo=opencv&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/AI_Agents-000000?style=flat-square&logo=openai&logoColor=00ff41" />
+</p>
+
+<p align="center"><b>🗄️ Databases & Cloud</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb,vercel&theme=dark" />
+</p>
+
+<p align="center"><b>🧰 Tools & DevOps</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker&theme=dark" />
+</p>
+
+---
+
 ## <img src="https://media.giphy.com/media/W5epZ2Lk4uxi8/giphy.gif" width="30"> Live Stats
 
 <p align="center">
@@ -112,6 +149,15 @@ status:      Always shipping. Always learning.
 
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Sattar77&layout=compact&langs_count=10&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff41&text_color=ffffff" alt="top langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdul-Sattar77&theme=github_dark" width="98%" alt="profile summary" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdul-Sattar77&theme=github_dark" alt="repos per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdul-Sattar77&theme=github_dark" alt="most commit language" />
 </p>
 
 ---
