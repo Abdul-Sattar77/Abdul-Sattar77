@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="300" viewBox="0 0 820 300" font-family="'Fira Code','Courier New',monospace">
+  <defs>
+    <filter id="g"><feGaussianBlur stdDeviation="1.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="820" height="300" rx="12" fill="#000000"/>
+  <rect width="820" height="300" rx="12" fill="none" stroke="#00ff41" stroke-opacity="0.3"/>
+
+  <!-- header -->
+  <text x="30" y="42" fill="#00ff41" font-size="20" font-weight="700" filter="url(#g)">abdul.os</text>
+  <text x="30" y="62" fill="#5efc82" font-size="11" opacity="0.7">booting developer environment v4.0 ...</text>
+  <line x1="30" y1="76" x2="790" y2="76" stroke="#00ff41" stroke-opacity="0.2"/>
+
+  <!-- module load lines -->
+  <g font-size="13" fill="#e0e0e0">
+    <text x="30" y="110" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.1s" fill="freeze"/>[ <tspan fill="#00ff41">OK</tspan> ] loading AI_ENGINE ......... neural nets online</text>
+    <text x="30" y="140" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.1s" fill="freeze"/>[ <tspan fill="#00ff41">OK</tspan> ] loading WEB_STACK ......... next.js + node ready</text>
+    <text x="30" y="170" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.1s" fill="freeze"/>[ <tspan fill="#00ff41">OK</tspan> ] loading MOBILE_CORE ....... flutter mounted</text>
+    <text x="30" y="200" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.9s" dur="0.1s" fill="freeze"/>[ <tspan fill="#00ff41">OK</tspan> ] loading DATA_LAYER ........ sql + firebase synced</text>
+    <text x="30" y="230" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.1s" fill="freeze"/>[ <tspan fill="#00ff41">OK</tspan> ] mounting CLUSTERCREW ...... team connected</text>
+  </g>
+
+  <!-- progress bar -->
+  <rect x="30" y="258" width="760" height="14" rx="7" fill="#0a2a0a" stroke="#00ff41" stroke-opacity="0.4"/>
+  <rect x="30" y="258" width="0" height="14" rx="7" fill="#00ff41" filter="url(#g)">
+    <animate attributeName="width" values="0;760" dur="2.6s" begin="0.3s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
+  </rect>
+  <text x="410" y="292" text-anchor="middle" fill="#5efc82" font-size="10" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="2.9s" dur="0.3s" fill="freeze"/>
+    SYSTEM READY — welcome, Abdul.
+  </text>
+</svg>
