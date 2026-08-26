@@ -149,19 +149,13 @@ The product and services site for the AI and digital studio I co-founded. Built 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,dart,react,nextjs,flutter,tailwind&theme=dark" alt="TypeScript, JavaScript, Python, Dart, React, Next.js, Flutter, Tailwind CSS" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,sqlite,tensorflow,threejs,githubactions,vercel&theme=dark" alt="Node.js, Prisma, PostgreSQL, SQLite, TensorFlow, Three.js, GitHub Actions, Vercel" />
+  <img width="100%" src="https://raw.githubusercontent.com/Abdul-Sattar77/Abdul-Sattar77/main/assets/stack.svg" alt="Stack by layer - interface, logic, intelligence, data" />
 </p>
 
 <table>
 <tr><td><b>Languages</b></td><td><code>TypeScript</code> · <code>JavaScript</code> · <code>Python</code> · <code>Dart</code> · <code>SQL</code></td></tr>
-<tr><td><b>Frontend</b></td><td><code>Next.js</code> · <code>React</code> · <code>Tailwind CSS</code> · <code>Framer Motion</code> · <code>Three.js / R3F</code> · <code>Radix UI</code></td></tr>
-<tr><td><b>Backend</b></td><td><code>Node.js</code> · <code>Next.js API Routes</code> · <code>NextAuth</code> · <code>Zod</code> · <code>Stripe</code> · <code>REST</code></td></tr>
-<tr><td><b>AI / ML</b></td><td><code>Anthropic Claude</code> · <code>Google Gemini</code> · <code>OpenAI</code> · <code>TensorFlow Lite</code> · <code>CNN image classification</code> · <code>Kokoro TTS</code></td></tr>
-<tr><td><b>Mobile</b></td><td><code>Flutter</code> · <code>on-device inference</code></td></tr>
-<tr><td><b>Data</b></td><td><code>Prisma</code> · <code>PostgreSQL</code> · <code>SQLite</code></td></tr>
-<tr><td><b>Tooling</b></td><td><code>Git</code> · <code>GitHub Actions</code> · <code>Vercel</code> · <code>Vitest</code> · <code>pnpm</code> · <code>Remotion</code></td></tr>
+<tr><td><b>Also using</b></td><td><code>Radix UI</code> · <code>TanStack Query</code> · <code>Zustand</code> · <code>Prisma Migrate</code> · <code>Remotion</code></td></tr>
+<tr><td><b>Tooling</b></td><td><code>Git</code> · <code>GitHub Actions</code> · <code>Vercel</code> · <code>Vitest</code> · <code>pnpm</code></td></tr>
 </table>
 
 <br />
