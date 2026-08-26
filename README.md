@@ -187,6 +187,10 @@ The product and services site for the AI and digital studio I co-founded. Built 
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdul-Sattar77&theme=github_dark" alt="Top languages by commit" />
 </p>
 
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=Abdul-Sattar77&theme=github-dark&hide_border=true&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" alt="GitHub contribution streak" />
+</p>
+
 <!-- Contribution snake — generated every 12h by .github/workflows/snake.yml
      and published to the `output` branch of this repository. -->
 <p align="center">
