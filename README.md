@@ -80,8 +80,8 @@ Cross-platform Flutter apps that embed ML models directly, built for real condit
 
 Turns a written brief into a finished, on-brand marketing video — script, narration, motion graphics, word-synced captions, transitions and ducked music — rendered to MP4 in every aspect ratio.
 
-**Solves** &nbsp;short-form video production is slow, manual and expensive
-**Notable** &nbsp;runs CPU-only with no paid API required
+**Solves** &nbsp;short-form video production is slow, manual and expensive<br/>
+**Notable** &nbsp;runs CPU-only with no paid API required<br/>
 **Stack** &nbsp;`TypeScript` `Remotion` `Kokoro TTS` `Zod` `Vitest`
 
 [**→ View project**](https://github.com/Abdul-Sattar77/ai_video_maker)
@@ -93,8 +93,8 @@ Turns a written brief into a finished, on-brand marketing video — script, narr
 
 An all-in-one CRM that sources leads from Google Maps and carries them through to close — companies, contacts, deals, a drag-and-drop pipeline, tasks, email sequences and reporting.
 
-**Solves** &nbsp;small teams juggling prospecting and CRM across disconnected tools
-**Notable** &nbsp;one Prisma schema runs SQLite locally and PostgreSQL in production
+**Solves** &nbsp;small teams juggling prospecting and CRM across disconnected tools<br/>
+**Notable** &nbsp;one Prisma schema runs SQLite locally and PostgreSQL in production<br/>
 **Stack** &nbsp;`Next.js 14` `TypeScript` `Prisma` `NextAuth` `Stripe` `Tailwind`
 
 [**→ View project**](https://github.com/Abdul-Sattar77/LeadGenerator-)
@@ -108,8 +108,8 @@ An all-in-one CRM that sources leads from Google Maps and carries them through t
 
 A mobile app that identifies **8 tomato leaf diseases** from a single photo, using a CNN trained on 16,000+ labelled images and run entirely on the phone.
 
-**Solves** &nbsp;growers need a diagnosis in the field, where there is no connectivity
-**Notable** &nbsp;inference happens on-device via TensorFlow Lite — no server round-trip
+**Solves** &nbsp;growers need a diagnosis in the field, where there is no connectivity<br/>
+**Notable** &nbsp;inference happens on-device via TensorFlow Lite — no server round-trip<br/>
 **Stack** &nbsp;`Flutter` `Dart` `TensorFlow Lite` `Gemini`
 
 [**→ View project**](https://github.com/Abdul-Sattar77/Crop_AI)
@@ -121,8 +121,8 @@ A mobile app that identifies **8 tomato leaf diseases** from a single photo, usi
 
 Reads a resume against a target job description and returns a match score, the skills that are missing, and specific suggestions for closing the gap.
 
-**Solves** &nbsp;candidates guessing why an application never got a reply
-**Notable** &nbsp;PDF parsing plus structured Gemini prompting for consistent output
+**Solves** &nbsp;candidates guessing why an application never got a reply<br/>
+**Notable** &nbsp;PDF parsing plus structured Gemini prompting for consistent output<br/>
 **Stack** &nbsp;`Next.js` `TypeScript` `Google Gemini` `pdf-parse` `Tailwind`
 
 [**→ View project**](https://github.com/Abdul-Sattar77/AI-Resume-Analyze)
