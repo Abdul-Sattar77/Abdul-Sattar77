@@ -6,17 +6,18 @@
   <img src="https://raw.githubusercontent.com/Abdul-Sattar77/Abdul-Sattar77/main/assets/banner.svg" alt="Abdul Sattar — AI, Full-Stack and Mobile Developer" width="100%" />
 </p>
 
+<!-- The LinkedIn logo is inlined as a data URI: simple-icons removed its
+     LinkedIn glyph, so shields.io's logo=linkedin renders nothing. -->
 <p align="center">
   <a href="https://www.linkedin.com/in/abdul-sattar-141602262">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0D1117" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-1C2B3A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8%2BPC9zdmc%2B&logoColor=22D3EE&labelColor=1C2B3A" alt="LinkedIn" />
   </a>
   <a href="mailto:sattarabdul.student@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0D1117" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-1C2B3A?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=1C2B3A" alt="Email" />
   </a>
   <a href="https://github.com/Abdul-Sattar77?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0D1117" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-1C2B3A?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=1C2B3A" alt="Repositories" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Abdul-Sattar77&label=PROFILE+VIEWS&color=0d1117&style=for-the-badge" alt="Profile views" />
 </p>
 
 <br />
@@ -217,13 +218,13 @@ If you have an idea worth building, or a system that needs to actually ship, get
 
 <p align="center">
   <a href="mailto:sattarabdul.student@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20me-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0D1117" alt="Email" />
+    <img src="https://img.shields.io/badge/Email%20me-1C2B3A?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=1C2B3A" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/abdul-sattar-141602262">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0D1117" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-1C2B3A?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8%2BPC9zdmc%2B&logoColor=22D3EE&labelColor=1C2B3A" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Abdul-Sattar77">
-    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0D1117" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-1C2B3A?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=1C2B3A" alt="GitHub" />
   </a>
 </p>
 
